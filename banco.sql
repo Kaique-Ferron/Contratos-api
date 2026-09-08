@@ -25,7 +25,7 @@ DROP PROCEDURE IF EXISTS sp_excluir_produto;
 
 
 -- ============================================================
--- READ - LISTAR PRODUTOS
+-- READ - LIS\TAR PRODUTOS
 -- ============================================================
 
 DELIMITER //
